@@ -1,4 +1,4 @@
-# 🎢 FunFair 3D: A Blender Amusement Park Experience
+# 🎢 FunFair 3D: A Blender Carnival Experience
 
 Welcome to **FunFair 3D**, a vibrant and imaginative amusement park scene built entirely in **Blender**. This project showcases 3D modeling, texturing, lighting, and rendering techniques—all wrapped up in a fun, carnival-themed environment!
 
